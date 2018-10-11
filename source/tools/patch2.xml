@@ -18,31 +18,31 @@
       <AxisValue index="0" Format="1">
         <AxisIndex value="0"/>
         <Flags value="0"/>
-        <ValueNameID value="273"/>  <!-- Light -->
+        <ValueNameID value="268"/>  <!-- Light -->
         <Value value="300.0"/>
       </AxisValue>
       <AxisValue index="1" Format="1">
         <AxisIndex value="0"/>
         <Flags value="0"/>
-        <ValueNameID value="274"/>  <!-- Regular -->
+        <ValueNameID value="269"/>  <!-- Regular -->
         <Value value="400.0"/>
       </AxisValue>
       <AxisValue index="2" Format="1">
         <AxisIndex value="0"/>
         <Flags value="0"/>
-        <ValueNameID value="275"/>  <!-- Medium -->
+        <ValueNameID value="270"/>  <!-- Medium -->
         <Value value="500.0"/>
       </AxisValue>
       <AxisValue index="3" Format="1">
         <AxisIndex value="0"/>
         <Flags value="0"/>
-        <ValueNameID value="276"/>  <!-- Bold -->
+        <ValueNameID value="271"/>  <!-- Bold -->
         <Value value="700.0"/>
       </AxisValue>
       <AxisValue index="4" Format="1">
         <AxisIndex value="0"/>
         <Flags value="0"/>
-        <ValueNameID value="277"/>  <!-- Black -->
+        <ValueNameID value="272"/>  <!-- Black -->
         <Value value="900.0"/>
       </AxisValue>
 
@@ -50,25 +50,25 @@
         <AxisIndex value="1"/>
         <Flags value="0"/>
         <ValueNameID value="278"/>  <!-- Condensed -->
-        <Value value="100.0"/>
+        <Value value="70.0"/>
       </AxisValue>
       <AxisValue index="6" Format="1">
         <AxisIndex value="1"/>
         <Flags value="0"/>
         <ValueNameID value="279"/>  <!-- Narrow -->
-        <Value value="200.0"/>
+        <Value value="85.0"/>
       </AxisValue>
       <AxisValue index="7" Format="1">
         <AxisIndex value="1"/>
-        <Flags value="0"/>
+        <Flags value="2"/>
         <ValueNameID value="280"/>  <!-- Normal -->
-        <Value value="300.0"/>
+        <Value value="100.0"/>
       </AxisValue>
       <AxisValue index="8" Format="1">
         <AxisIndex value="1"/>
         <Flags value="0"/>
         <ValueNameID value="281"/>  <!-- Wide -->
-        <Value value="400.0"/>
+        <Value value="115.0"/>
       </AxisValue>
     </AxisValueArray>
     <ElidedFallbackNameID value="2"/>  <!-- Regular -->

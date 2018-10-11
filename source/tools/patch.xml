@@ -54,34 +54,34 @@
       Black Narrow
     </namerecord>
     <namerecord nameID="268" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Light Wide
-    </namerecord>
-    <namerecord nameID="269" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Regular Wide
-    </namerecord>
-    <namerecord nameID="270" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Medium Wide
-    </namerecord>
-    <namerecord nameID="271" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Bold Wide
-    </namerecord>
-    <namerecord nameID="272" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Black Wide
-    </namerecord>
-    <namerecord nameID="273" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Light
     </namerecord>
-    <namerecord nameID="274" platformID="1" platEncID="0" langID="0x0" unicode="True">
+    <namerecord nameID="269" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Regular
     </namerecord>
-    <namerecord nameID="275" platformID="1" platEncID="0" langID="0x0" unicode="True">
+    <namerecord nameID="270" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Medium
     </namerecord>
-    <namerecord nameID="276" platformID="1" platEncID="0" langID="0x0" unicode="True">
+    <namerecord nameID="271" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Bold
     </namerecord>
-    <namerecord nameID="277" platformID="1" platEncID="0" langID="0x0" unicode="True">
+    <namerecord nameID="272" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Black
+    </namerecord>
+    <namerecord nameID="273" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Light Wide
+    </namerecord>
+    <namerecord nameID="274" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Regular Wide
+    </namerecord>
+    <namerecord nameID="275" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Medium Wide
+    </namerecord>
+    <namerecord nameID="276" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Bold Wide
+    </namerecord>
+    <namerecord nameID="277" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Black Wide
     </namerecord>
     <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
       Copyright (c) 2014, Impallari Type (www.impallari.com), with Reserved Font Name Libre Clarendon.
@@ -162,34 +162,34 @@
       Black Narrow
     </namerecord>
     <namerecord nameID="268" platformID="3" platEncID="1" langID="0x409">
-      Light Wide
-    </namerecord>
-    <namerecord nameID="269" platformID="3" platEncID="1" langID="0x409">
-      Regular Wide
-    </namerecord>
-    <namerecord nameID="270" platformID="3" platEncID="1" langID="0x409">
-      Medium Wide
-    </namerecord>
-    <namerecord nameID="271" platformID="3" platEncID="1" langID="0x409">
-      Bold Wide
-    </namerecord>
-    <namerecord nameID="272" platformID="3" platEncID="1" langID="0x409">
-      Black Wide
-    </namerecord>
-    <namerecord nameID="273" platformID="3" platEncID="1" langID="0x409">
       Light
     </namerecord>
-    <namerecord nameID="274" platformID="3" platEncID="1" langID="0x409">
+    <namerecord nameID="269" platformID="3" platEncID="1" langID="0x409">
       Regular
     </namerecord>
-    <namerecord nameID="275" platformID="3" platEncID="1" langID="0x409">
+    <namerecord nameID="270" platformID="3" platEncID="1" langID="0x409">
       Medium
     </namerecord>
-    <namerecord nameID="276" platformID="3" platEncID="1" langID="0x409">
+    <namerecord nameID="271" platformID="3" platEncID="1" langID="0x409">
       Bold
     </namerecord>
-    <namerecord nameID="277" platformID="3" platEncID="1" langID="0x409">
+    <namerecord nameID="272" platformID="3" platEncID="1" langID="0x409">
       Black
+    </namerecord>
+    <namerecord nameID="273" platformID="3" platEncID="1" langID="0x409">
+      Light Wide
+    </namerecord>
+    <namerecord nameID="274" platformID="3" platEncID="1" langID="0x409">
+      Regular Wide
+    </namerecord>
+    <namerecord nameID="275" platformID="3" platEncID="1" langID="0x409">
+      Medium Wide
+    </namerecord>
+    <namerecord nameID="276" platformID="3" platEncID="1" langID="0x409">
+      Bold Wide
+    </namerecord>
+    <namerecord nameID="277" platformID="3" platEncID="1" langID="0x409">
+      Black Wide
     </namerecord>
     <namerecord nameID="278" platformID="3" platEncID="1" langID="0x409">
       Condensed
