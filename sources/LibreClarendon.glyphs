@@ -2,16 +2,9 @@
 .appVersion = "1192";
 DisplayStrings = (
 "Aardvark Ablution Acrimonious Adventures Aeolian Africa Agamemnon Ahoy Aileron Ajax Akimbo Altruism America Anecdote Aorta Aptitude Aquarium Arcade Aspartame Attrition Aurelius Avuncular Awning Axminster Ayers Azure Banishment Benighted Bhagavad Biblical Bjorn Blancmange Bolton Brusque Burnish Bwana Byzantium Cabbala Cetacean Charlemagne Cicero Clamorous Cnidarian Conifer Crustacean Ctenoid Culled Cynosure Czarina Dalmatian Delphi Dhurrie Dinner Djinn Document Drill Dunleary Dvorak Dwindle Dynamo Eames Ebullient Echo Edify Eels Eftsoons Egress Ehrlich Eindhoven Eject Ekistics Elzevir Eminence Ennoble Eocene Ephemeral Equator Erstwhile Estienne Etiquette Eucalyptus Everyman Ewen Exeter Eyelet Ezekiel Fanfare Ferocious Ffestiniog Finicky Fjord Flanders Forestry Frills Furniture Fylfot Garrulous Generous Ghastly Gimlet Glorious Gnomon Golfer Grizzled Gumption Gwendolyn Gymkhana Harrow Heifer Hindemith Horace Hsi Hubris Hybrid Iambic Ibarra Ichthyology Identity Ievgeny Ifrit Ignite Ihre Ikon Iliad Imminent Innovation Iolanthe Ipanema Irascible Island Italic Ivory Iwis Ixtapa Iyar Izzard Janacek Jenson Jitter Joinery Jr. Jungian Kaiser Kenilworth Khaki Kindred Klondike Knowledge Kohlrabi Kraken Kudzu Kvetch Kwacha Kyrie Labrador Lent Lhasa Liniment Llama Longboat Luddite Lyceum Mandarin Mbandaka Mcintyre Mdina Mendacious Mfg. Mg Millinery Mlle. Mme. Mnemonic Moribund Mr. Ms. Mtn. Munitions Myra Narragansett Nefarious Nguyen Nile Nkoso Nnenna Nonsense Nr. Nunnery Nyack Oarsman Oblate Ocular Odessa Oedipus Often Ogre Ohms Oilers Okra Olfactory Ominous Onerous Oogamous Opine Ornate Ossified Othello Oubliette Ovens Owlish Oxen Oyster Ozymandias Parisian Pb Pd. Penrose Pfennig Pg. Pharmacy Pirouette Pleistocene Pneumatic Porridge Pp. Principle Psaltery Ptarmigan Pundit Pyrrhic Qaid Qed Qibris Qom Quill Ransom Rb. Rd. Renfield Rheumatic Ringlet Rm. Ronsard Rp. Rte. Runcible Rwanda Rye Salacious Sbeitla Scherzo Serpentine Sforza Shackles Sinful Sjoerd Skull Slalom Smelting Snipe Sorbonne Spartan Squire Sri Stultified Summoner Svelte Swarthy Sykes Szentendre Tarragon Tblisi Tcherny Tennyson Thaumaturge Tincture Tlaloc Toreador Treacherous Tsunami Turkey Twine Tyrolean Tzara Ubiquitous Ucello Udder Ufology Ugric Uhlan Uitlander Ukulele Ulster Umber Unguent Uomo Uplift Ursine Usurious Utrecht Uvula Uxorious Uzbek Vanished Vd. Venomous Vindicate Voracious Vrillier Vs. Vt. Vulnerable Vying Washington Wendell Wharf Window Wm. Worth Wrung Wt. Wunderman Wyes Xanthan Xenon Xiao Xmas Xray Xuxa Xylem Yarrow Ybarra Ycair Yds. Yellowstone Yggdrasil Yin Ylang Yours Ypsilanti Yquem Yrs. Ys. Ytterbium Yunnan Yvonne Zanzibar Zero Zhora Zinfandel Zone Zuni Zwieback Zygote",
-"/f_f/f_f_i/f_f_l/fi/fl  \012aO@©cR®192°^\012c©2019  ®2019\012O©O©O©O©O©O©O©\012O®O®O®O®O®O®O®O\0120°0°0°0°0°0°0°0°0°0°0°0°\012°0°1°2°3°4°5°6°7°8°9°\012\012hello@gmail.com",
-"^"
+"/f_f/f_f_i/f_f_l/fi/fl  \012aO@©cR®192°^\012c©2019  ®2019\012O©O©O©O©O©O©O©\012O®O®O®O®O®O®O®O\0120°0°0°0°0°0°0°0°0°0°0°0°\012°0°1°2°3°4°5°6°7°8°9°\012\012hello@gmail.com"
 );
-classes = (
-{
-code = "";
-name = xxxx;
-}
-);
-copyright = "Copyright (c) 2014, Impallari Type (www.impallari.com), with Reserved Font Name Libre Clarendon.";
+copyright = "Copyright 2019 the Libre Clarendon Project Authors (https://github.com/googlefonts/Libre-Clarendon), with Reserved Font Name 'Libre Clarendon'.";
 customParameters = (
 {
 name = openTypeOS2Type;
@@ -86,11 +79,6 @@ name = aalt;
 automatic = 1;
 code = "sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;\012sub N o period by numero;\012";
 name = ordn;
-},
-{
-automatic = 1;
-code = "sub f f i by f_f_i;\012sub f f l by f_f_l;\012sub f f by f_f;\012sub f i by fi;\012sub f l by fl;\012";
-name = liga;
 }
 );
 fontMaster = (
@@ -60898,7 +60886,7 @@ interpolationWeight = 40;
 instanceInterpolations = {
 "E9E6D55E-9446-45F2-B66C-3272698B0216" = 1;
 };
-name = "40 Light Condensed";
+name = "40 Condensed Light";
 weightClass = Light;
 widthClass = Condensed;
 },
@@ -60908,7 +60896,7 @@ instanceInterpolations = {
 "B25F85BC-C782-4067-8484-07202F80B8CD" = 0.24444;
 "E9E6D55E-9446-45F2-B66C-3272698B0216" = 0.75556;
 };
-name = "62 Regular Condensed";
+name = "62 Condensed Regular";
 widthClass = Condensed;
 },
 {
@@ -60917,7 +60905,7 @@ instanceInterpolations = {
 "B25F85BC-C782-4067-8484-07202F80B8CD" = 0.62222;
 "E9E6D55E-9446-45F2-B66C-3272698B0216" = 0.37778;
 };
-name = "96 Medium Condensed";
+name = "96 Condensed Medium";
 weightClass = Medium;
 widthClass = Condensed;
 },
@@ -60928,7 +60916,7 @@ instanceInterpolations = {
 "B817C739-5D48-43E8-AAEE-CE891513D7BC" = 0.13043;
 };
 isBold = 1;
-name = "136 Bold Condensed";
+name = "136 Condensed Bold";
 weightClass = Bold;
 widthClass = Condensed;
 },
@@ -60937,7 +60925,7 @@ interpolationWeight = 176;
 instanceInterpolations = {
 "B817C739-5D48-43E8-AAEE-CE891513D7BC" = 1;
 };
-name = "176 Black Condensed";
+name = "176 Condensed Black";
 weightClass = Black;
 widthClass = Condensed;
 },
@@ -60949,7 +60937,7 @@ instanceInterpolations = {
 "E9E6D55E-9446-45F2-B66C-3272698B0216" = 0.65926;
 UUID0 = 0.33333;
 };
-name = "42 Light Narrow";
+name = "42 Narrow Light";
 weightClass = Light;
 widthClass = SemiCondensed;
 },
@@ -60962,7 +60950,7 @@ instanceInterpolations = {
 "E9E6D55E-9446-45F2-B66C-3272698B0216" = 0.51349;
 UUID0 = 0.20682;
 };
-name = "66 Regular Narrow";
+name = "66 Narrow Regular";
 widthClass = SemiCondensed;
 },
 {
@@ -60974,7 +60962,7 @@ instanceInterpolations = {
 "E9E6D55E-9446-45F2-B66C-3272698B0216" = 0.16146;
 UUID0 = 0.13336;
 };
-name = "104 Medium Narrow";
+name = "104 Narrow Medium";
 weightClass = Medium;
 widthClass = SemiCondensed;
 },
@@ -60988,7 +60976,7 @@ instanceInterpolations = {
 "B817C739-5D48-43E8-AAEE-CE891513D7BC" = 0.21437;
 };
 isBold = 1;
-name = "150 Bold Narrow";
+name = "150 Narrow Bold";
 weightClass = Bold;
 widthClass = SemiCondensed;
 },
@@ -60999,7 +60987,7 @@ instanceInterpolations = {
 "14C77FDB-037D-4842-9381-6D9ED15DD48C" = 0.33333;
 "B817C739-5D48-43E8-AAEE-CE891513D7BC" = 0.66667;
 };
-name = "194 Black Narrow";
+name = "194 Narrow Black";
 weightClass = Black;
 widthClass = SemiCondensed;
 },
@@ -61067,7 +61055,7 @@ interpolationWidth = 400;
 instanceInterpolations = {
 UUID0 = 1;
 };
-name = "44 Light Wide";
+name = "44 Wide Light";
 weightClass = Light;
 widthClass = Expanded;
 },
@@ -61078,7 +61066,7 @@ instanceInterpolations = {
 "4355E1B8-19E6-44BD-A1D7-6E3C2DECA4C8" = 0.34884;
 UUID0 = 0.65116;
 };
-name = "74 Regular Wide";
+name = "74 Wide Regular";
 widthClass = Expanded;
 },
 {
@@ -61088,7 +61076,7 @@ instanceInterpolations = {
 "4355E1B8-19E6-44BD-A1D7-6E3C2DECA4C8" = 0.88372;
 UUID0 = 0.11628;
 };
-name = "120 Medium Wide";
+name = "120 Wide Medium";
 weightClass = Medium;
 widthClass = Expanded;
 },
@@ -61100,7 +61088,7 @@ instanceInterpolations = {
 "4355E1B8-19E6-44BD-A1D7-6E3C2DECA4C8" = 0.54;
 };
 isBold = 1;
-name = "176 Bold Wide";
+name = "176 Wide Bold";
 weightClass = Bold;
 widthClass = Expanded;
 },
@@ -61110,7 +61098,7 @@ interpolationWidth = 400;
 instanceInterpolations = {
 "14C77FDB-037D-4842-9381-6D9ED15DD48C" = 1;
 };
-name = "230 Black Wide";
+name = "230 Wide Black";
 weightClass = Black;
 widthClass = Expanded;
 },
