@@ -13,7 +13,7 @@ gftools fix-nonhinting LibreClarendon-VF.ttf LibreClarendon-VF.ttf
 gftools fix-dsig --autofix LibreClarendon-VF.ttf
 gftools fix-gasp LibreClarendon-VF.ttf
 
-ttx LibreClarendon-VF.ttf
+ttx -x 'MVAR' LibreClarendon-VF.ttf
 
 rm -rf LibreClarendon-VF.ttf
 rm -rf LibreClarendon-VF-backup-fonttools-prep-gasp.ttf
