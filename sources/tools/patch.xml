@@ -1,22 +1,4 @@
   <name>
-    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Libre Clarendon
-    </namerecord>
-    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Light Condensed
-    </namerecord>
-    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      1.000;IMPA;LibreClarendon-LightCondensed
-    </namerecord>
-    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Libre Clarendon Light Condensed
-    </namerecord>
-    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Version 1.000
-    </namerecord>
-    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      LibreClarendon-LightCondensed
-    </namerecord>
     <namerecord nameID="256" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Weight
     </namerecord>
@@ -24,34 +6,34 @@
       Width
     </namerecord>
     <namerecord nameID="258" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Light Condensed
+      Condensed Light
     </namerecord>
     <namerecord nameID="259" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Regular Condensed
+      Condensed Regular
     </namerecord>
     <namerecord nameID="260" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Medium Condensed
+      Condensed Medium
     </namerecord>
     <namerecord nameID="261" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Bold Condensed
+      Condensed Bold
     </namerecord>
     <namerecord nameID="262" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Black Condensed
+      Condensed Black
     </namerecord>
     <namerecord nameID="263" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Light Narrow
+      Narrow Light
     </namerecord>
     <namerecord nameID="264" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Regular Narrow
+      Narrow Regular
     </namerecord>
     <namerecord nameID="265" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Medium Narrow
+      Narrow Medium
     </namerecord>
     <namerecord nameID="266" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Bold Narrow
+      Narrow Bold
     </namerecord>
     <namerecord nameID="267" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Black Narrow
+      Narrow Black
     </namerecord>
     <namerecord nameID="268" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Light
@@ -69,28 +51,40 @@
       Black
     </namerecord>
     <namerecord nameID="273" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Light Wide
+      Wide Light
     </namerecord>
     <namerecord nameID="274" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Regular Wide
+      Wide Regular
     </namerecord>
     <namerecord nameID="275" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Medium Wide
+      Wide Medium
     </namerecord>
     <namerecord nameID="276" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Bold Wide
+      Wide Bold
     </namerecord>
     <namerecord nameID="277" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Black Wide
+      Wide Black
+    </namerecord>
+    <namerecord nameID="278" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Condensed
+    </namerecord>
+    <namerecord nameID="279" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Narrow
+    </namerecord>
+    <namerecord nameID="280" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Normal
+    </namerecord>
+    <namerecord nameID="281" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Wide
     </namerecord>
     <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
-      Copyright (c) 2014, Impallari Type (www.impallari.com), with Reserved Font Name Libre Clarendon.
+      Copyright 2019 the Libre Clarendon Project Authors (https://github.com/googlefonts/Libre-Clarendon), with Reserved Font Name 'Libre Clarendon'.
     </namerecord>
     <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
-      Libre Clarendon
+      Libre Clarendon Condensed Light
     </namerecord>
     <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
-      Light Condensed
+      Regular
     </namerecord>
     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
       1.000;IMPA;LibreClarendon-CondensedLight
@@ -138,34 +132,34 @@
       Width
     </namerecord>
     <namerecord nameID="258" platformID="3" platEncID="1" langID="0x409">
-      Light Condensed
+      Condensed Light
     </namerecord>
     <namerecord nameID="259" platformID="3" platEncID="1" langID="0x409">
-      Regular Condensed
+      Condensed Regular
     </namerecord>
     <namerecord nameID="260" platformID="3" platEncID="1" langID="0x409">
-      Medium Condensed
+      Condensed Medium
     </namerecord>
     <namerecord nameID="261" platformID="3" platEncID="1" langID="0x409">
-      Bold Condensed
+      Condensed Bold
     </namerecord>
     <namerecord nameID="262" platformID="3" platEncID="1" langID="0x409">
-      Black Condensed
+      Condensed Black
     </namerecord>
     <namerecord nameID="263" platformID="3" platEncID="1" langID="0x409">
-      Light Narrow
+      Narrow Light
     </namerecord>
     <namerecord nameID="264" platformID="3" platEncID="1" langID="0x409">
-      Regular Narrow
+      Narrow Regular
     </namerecord>
     <namerecord nameID="265" platformID="3" platEncID="1" langID="0x409">
-      Medium Narrow
+      Narrow Medium
     </namerecord>
     <namerecord nameID="266" platformID="3" platEncID="1" langID="0x409">
-      Bold Narrow
+      Narrow Bold
     </namerecord>
     <namerecord nameID="267" platformID="3" platEncID="1" langID="0x409">
-      Black Narrow
+      Narrow Black
     </namerecord>
     <namerecord nameID="268" platformID="3" platEncID="1" langID="0x409">
       Light
@@ -183,19 +177,19 @@
       Black
     </namerecord>
     <namerecord nameID="273" platformID="3" platEncID="1" langID="0x409">
-      Light Wide
+      Wide Light
     </namerecord>
     <namerecord nameID="274" platformID="3" platEncID="1" langID="0x409">
-      Regular Wide
+      Wide Regular
     </namerecord>
     <namerecord nameID="275" platformID="3" platEncID="1" langID="0x409">
-      Medium Wide
+      Wide Medium
     </namerecord>
     <namerecord nameID="276" platformID="3" platEncID="1" langID="0x409">
-      Bold Wide
+      Wide Bold
     </namerecord>
     <namerecord nameID="277" platformID="3" platEncID="1" langID="0x409">
-      Black Wide
+      Wide Black
     </namerecord>
     <namerecord nameID="278" platformID="3" platEncID="1" langID="0x409">
       Condensed
